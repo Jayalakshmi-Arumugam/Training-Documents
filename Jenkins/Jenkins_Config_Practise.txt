@@ -39,6 +39,9 @@ systemctl status jenkins
 
 Open web browser :
 
+#In command prompt can check the status of running details by using below commants
+systemctl status jenkins
+
 http://<Public_IP_Address>:8080/
 
 E.g.: http://43.205.118.56:8080/
